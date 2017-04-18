@@ -1,0 +1,119 @@
+>>> ================================ RESTART ================================
+Location -0.8 CTE -0.8 CTE-Error 0.8 CTE-SUM -1.6
+10 0 10
+proportional -8.0 integral -0.0 delta 8.0
+Steer: 0.0 Speed: 10 Distance: 8
+0 0
+Location -2.4 CTE -2.4 CTE-Error -0.8 CTE-SUM -3.2
+10 0 10
+proportional -24.0 integral -0.0 delta -8.0
+Steer: -16.0 Speed: 10 Distance: 8
+0 0
+Location -1.6 CTE -1.6 CTE-Error 0.0 CTE-SUM -4.8
+10 0 10
+proportional -16.0 integral -0.0 delta 0.0
+Steer: -8.0 Speed: 10 Distance: 8
+0 0
+Location -1.6 CTE -1.6 CTE-Error 0.0 CTE-SUM -6.4
+10 0 10
+proportional -16.0 integral -0.0 delta 0.0
+Steer: -8.0 Speed: 10 Distance: 8
+0 0
+Location 0.0 CTE 0.0 CTE-Error 1.6 CTE-SUM -8.0
+10 0 10
+proportional 0.0 integral -0.0 delta 16.0
+Steer: 8.0 Speed: 10 Distance: 8
+0 0
+Location 1.6 CTE 1.6 CTE-Error 3.2 CTE-SUM -9.6
+10 0 10
+proportional 16.0 integral -0.0 delta 32.0
+Steer: 24.0 Speed: 10 Distance: 8
+0 0
+Location -2.4 CTE -2.4 CTE-Error -0.8 CTE-SUM -11.2
+10 0 10
+proportional -24.0 integral -0.0 delta -8.0
+Steer: -16.0 Speed: 10 Distance: 8
+0 0
+Location -4.8 CTE -4.8 CTE-Error -3.2 CTE-SUM -12.8
+10 0 10
+proportional -48.0 integral -0.0 delta -32.0
+Steer: -25.0 Speed: 10 Distance: 8
+0 0
+Location -1.6 CTE -1.6 CTE-Error 0.0 CTE-SUM -14.4
+10 0 10
+proportional -16.0 integral -0.0 delta 0.0
+Steer: -8.0 Speed: 10 Distance: 8
+0 0
+Location 0.0 CTE 0.0 CTE-Error 1.6 CTE-SUM -16.0
+10 0 10
+proportional 0.0 integral -0.0 delta 16.0
+Steer: 8.0 Speed: 10 Distance: 8
+0 0
+Location 2.4 CTE 2.4 CTE-Error 4.0 CTE-SUM -17.6
+10 0 10
+proportional 24.0 integral -0.0 delta 40.0
+Steer: 25.0 Speed: 10 Distance: 8
+0 0
+Location 0.8 CTE 0.8 CTE-Error 2.4 CTE-SUM -19.2
+10 0 10
+proportional 8.0 integral -0.0 delta 24.0
+Steer: 16.0 Speed: 10 Distance: 8
+0 0
+Location -4.0 CTE -4.0 CTE-Error -2.4 CTE-SUM -20.8
+10 0 10
+proportional -40.0 integral -0.0 delta -24.0
+Steer: -25.0 Speed: 10 Distance: 8
+0 0
+Location -8.0 CTE -8.0 CTE-Error -6.4 CTE-SUM -22.4
+10 0 10
+proportional -80.0 integral -0.0 delta -64.0
+Steer: -25.0 Speed: 10 Distance: 8
+0 0
+Location -4.8 CTE -4.8 CTE-Error -3.2 CTE-SUM -24.0
+10 0 10
+proportional -48.0 integral -0.0 delta -32.0
+Steer: -25.0 Speed: 10 Distance: 8
+0 0
+Location 124.0 CTE 124.0 CTE-Error 125.6 CTE-SUM -25.6
+10 0 10
+proportional 1240.0 integral -0.0 delta 1256.0
+Steer: 25.0 Speed: 10 Distance: 8
+0 0
+Location 6.4 CTE 6.4 CTE-Error 8.0 CTE-SUM -27.2
+10 0 10
+proportional 64.0 integral -0.0 delta 80.0
+Steer: 25.0 Speed: 10 Distance: 8
+0 0
+Location 2.4 CTE 2.4 CTE-Error 4.0 CTE-SUM -28.8
+10 0 10
+proportional 24.0 integral -0.0 delta 40.0
+Steer: 25.0 Speed: 10 Distance: 8
+0 0
+Location -0.8 CTE -0.8 CTE-Error 0.8 CTE-SUM -30.4
+10 0 10
+proportional -8.0 integral -0.0 delta 8.0
+Steer: 0.0 Speed: 10 Distance: 8
+0 0
+Location -6.4 CTE -6.4 CTE-Error -4.8 CTE-SUM -32.0
+10 0 10
+proportional -64.0 integral -0.0 delta -48.0
+Steer: -25.0 Speed: 10 Distance: 8
+0 0
+Location -10.4 CTE -10.4 CTE-Error -8.8 CTE-SUM -33.6
+10 0 10
+proportional -104.0 integral -0.0 delta -88.0
+Steer: -25.0 Speed: 10 Distance: 8
+0 0
+Location -8.0 CTE -8.0 CTE-Error -6.4 CTE-SUM -35.2
+10 0 10
+proportional -80.0 integral -0.0 delta -64.0
+Steer: -25.0 Speed: 10 Distance: 8
+0 0
+Location -12.0 CTE -12.0 CTE-Error -10.4 CTE-SUM -36.8
+10 0 10
+proportional -120.0 integral -0.0 delta -104.0
+Steer: -25.0 Speed: 10 Distance: 8
+0 0
+Location 1.6 CTE 1.6 CTE-Error 3.2 CTE-SUM -38.4
+10 0 10
+proportional 16.0 integral -0.0 delta 32.0
